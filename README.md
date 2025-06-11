@@ -36,10 +36,10 @@ npm test
 Une présentation sur les tests unitaires avec Jest est incluse dans ce dépôt. Vous pouvez la visualiser en utilisant l'outil `presenterm`.
 
 1. Installez `presenterm` (si ce n'est pas déjà fait) :
-   ```bash
+```bash
 brew install presenterm
-   ```
+```
 2. Lancez la présentation :
-   ```bash
+```bash
 presenterm presentation.md
-   ```
+```
