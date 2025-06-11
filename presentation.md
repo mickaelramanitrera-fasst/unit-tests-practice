@@ -290,9 +290,16 @@ Pratique : Écrivez vos propres tests
 ===
 <!-- incremental_lists: true -->
 <!-- new_line -->
-1. Récupérer le repo sur github.
+1. Récupérer le repo sur github ==> [](https://github.com/mickaelramanitrera-fasst/unit-tests-practice)
+```bash
+git clone https://github.com/mickaelramanitrera-fasst/unit-tests-practice.git
+
+```
 <!-- new_line -->
 2. Installer les dépendances
+```bash
+npm install
+```
 <!-- new_line -->
 3. Ouvrez le projet dans votre IDE préféré :)
 
